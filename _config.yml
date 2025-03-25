@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "He Sun"
+title                    : "Zijie Lin"
 description              : ""
-repository               : "github.com/ustc-sunny/ustc-sunny.github.io"
+repository               : "https://github.com/shoushouyu/ustc-linz.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
