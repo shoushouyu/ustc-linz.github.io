@@ -18,13 +18,12 @@ redirect_from:
 # About Me (Updated in 2025.2)
 
 <span class='anchor' id='about-me'></span>
-Hi, there. I am Zijie Lin (林子杰), a second-year master's student in the [Department of Computer Science and Technology](https://cs.ustc.edu.cn/main.htm) & [Suzhou Institute for Advanced Study](https://sz.ustc.edu.cn/index.html) & [State Key Laboratory of Cognitive Intelligence](http://cogskl.iflytek.com/) at the [University of Science and Technology of China](https://ustc.edu.cn/) (USTC), supervised by Prof. [Mingjun Xiao](http://staff.ustc.edu.cn/~xiaomj/indexEN.html). I am also lucky to have opportunities to collaborate with Prof. [Jie Wu](https://cis.temple.edu/~wu/) (Professor, Temple University, Fellow of IEEE/AAAS), [Li Li](https://www.fst.um.edu.mo/personal/llili/) (Assistant Professor, University of Macau) and [Guoju Gao](http://web.suda.edu.cn/ggj/) (Associate Professor, Soochow University). This is my [CV](https://ustc-sunny.github.io/resume_hesun.pdf).
+Hi, there. I am Zijie Lin (林子杰), a second-year master's student in the [Department of Computer Science and Technology](https://cs.ustc.edu.cn/main.htm) & [Suzhou Institute for Advanced Study](https://sz.ustc.edu.cn/index.html) & [State Key Laboratory of Cognitive Intelligence](http://cogskl.iflytek.com/) at the [University of Science and Technology of China](https://ustc.edu.cn/) (USTC), supervised by Prof. [Mingjun Xiao](http://staff.ustc.edu.cn/~xiaomj/indexEN.html).
 
-My research interests include Mobile Computing & ML Systems (e.g., On-device Training/Tuning of LLM, LLM Inference On Mobile/Edge Devices, Data Trading, Data Sensing, Connected Vehicles, etc.), Reinforcement Learning (Bandits/MARL, etc.), and Privacy Preservation (Differential Privacy). I have published several academic papers in top-tier international conferences and journals, including IEEE INFOCOM, IEEE ICDCS, IEEE Transactions on Mobile Computing, IEEE Transactions on Parallel and Distributed Systems, etc.
+My research interests include Natural Language Processing & Multi-agent Systems. I have published several academic papers in top-tier international conferences and journals, including IEEE INFOCOM, IEEE ICDCS, IEEE Transactions on Mobile Computing, IEEE Transactions on Parallel and Distributed Systems, etc.
 
-**Stay hungry and stay foolish.**
 
-**I am seeking opportunities for overseas Postdoctoral Researcher in 2026. If you are interested in my research, please don't hesitate to contact me: hesun@mail.ustc.edu.cn & he.sunny.sun@gmail.com** 
+**I am seeking opportunities for Doctoral Researcher in 2026. If you are interested in my research, please don't hesitate to contact me: lzj741@mail.ustc.edu.cn** 
 
 # 🔥 News
 <span class='anchor' id='-news'></span>
@@ -41,16 +40,8 @@ My research interests include Mobile Computing & ML Systems (e.g., On-device Tra
 # 📝 Publications 
 <span class='anchor' id='-publications'></span>
 
-## Preprint
-- Yebo Wu, Chunlin Tian, Jingguang Li, **He Sun**, Kahou Tam, Li Li, Chengzhong Xu. "A Survey on Federated Fine-tuning of Large Language Models", Arxiv'25 [[paper]](https://arxiv.org/pdf/2503.12016) [[project]](https://github.com/Clin0212/Awesome-Federated-LLM-Learning)
   
 ## Conferences
-- <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[INFOCOM'23]</b></a> **He Sun**, Mingjun Xiao, Yin Xu, Guoju Gao, Shu Zhang "Privacy-preserving Stable Crowdsensing Data Trading for Unknown Market", Proc. IEEE INFOCOM'23, May. 2023, (Acceptance Rate: 252/1312=19.2%). [[Paper]](https://ieeexplore.ieee.org/abstract/document/10228966) [[Slide]](http://home.ustc.edu.cn/~hesun/INFOCOM23-slide.pdf)</span>
-- <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[ICDCS'24]</b></a> Yu Zhao, Jinrui Zhou, Mingjun Xiao, Jie Wu, and **He Sun**, "ERS: Faster LiDAR Point Cloud Registration for Connected Vehicles", ICDCS'24</span>
-- <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[INFOCOM'23]</b></a>  Shu Zhang, Mingjun Xiao, Guoju Gao, Yin Xu, **He Sun** "Offloading Tasks to Unknown Edge Servers: A Contextual Multi-Armed Bandit Approach", Proc. IEEE INFOCOM WKSHPS: ICCN 2023. [[Paper]](https://ieeexplore.ieee.org/document/10226047)</span>
-- <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[MASS'23]</b></a>  Chen Wu, Mingjun Xiao, Jie Wu, Jinrui Zhou, Yin Xu and **He Sun**, "Towards Federated Learning on Fresh Datasets", Proc. IEEE MASS 2023. (**Best Paper Award**) [[paper]](https://cis.temple.edu/~wu/research/publications/Publication_files/MASS2023_Bestpaper.pdf) [[Slide]](https://cis.temple.edu/~wu/research/publications/Publication_files/Slide_MASS2023_Final.pdf)</span>
-- <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[ICPADS'23]</b></a> Jinbo Cai, Mingjun Xiao, **He Sun**, Junjie Shao, Yu Zhao, Tongxiao Zhang. "Video Streaming Caching and Transcoding for Heterogeneous Mobile Users", Proc. ICPADS'23. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10476058)</span>
-- <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[MASS'24]</b></a> Xinwei Huang, Yin Xu, **He Sun**, Jinbo Cai, Yifan Duan, Mingjun Xiao, Jie Wu. "Q2oE-Aware Deep Reinforcement Learning for Mobile Vehicles in Collaborative Edge Servers", Proc. IEEE MASS 2024</span>
 
 {% raw %}
 <!-- 更多内容 -->
@@ -87,22 +78,13 @@ My research interests include Mobile Computing & ML Systems (e.g., On-device Tra
 {% endraw %}
 
 ## Journals
-- <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[TMC'24]</b></a> **He Sun**, Mingjun Xiao, Yin Xu, Guoju Gao, Shu Zhang. "Crowdsensing Data Trading for Unknown Market: Privacy, Stability, and Conflicts", IEEE Transactions on Mobile Computing, 2024. [[paper]](https://ieeexplore.ieee.org/document/10529594) 
-- <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[TPDS'24]</b></a> Yin Xu, Mingjun Xiao, Jie Wu, **He Sun**. "Privacy-Preserving Task Push in Spatial Crowdsourcing with Unknown Popularity", IEEE Transactions on Parallel and Distributed Systems, 2024
-- <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[JCST'24]</b></a> Yin Xu, Mingjun Xiao, Jie Wu, Chen Wu, Jinrui Zhou, and **He Sun**. "Age-of-Information-Aware Federated Learning", Journal of Computer Science and Technology, 2024
-- Yu Zhao, **He Sun**, Mingjun Xiao, Jie Wu, Junjie Shao, Jinbo Cai. "Edge-assisted Multi-vehicle Cooperative Perception: an Approach Based on Relative Pose Estimation", IEEE Transactions on Mobile Computing, 2023 (Under Review)
-- Junjie Shao, Yu Zhao, **He Sun**, Jinbo Cai, Jie Wu, Mingjun Xiao. "Cooperative Traffic Signal Online Control Using Game Theory and Contextual Bandit", IEEE Transactions on Services Computing, 2024 (Under Review)
 
-
-## Book Chapter
-- Mingjun Xiao, Yin Xu, **He Sun**. ["Unknown Worker Recruitment in Mobile Crowdsourcing"](https://link.springer.com/chapter/10.1007/978-3-031-32397-3_3) in ["Mobile Crowdsourcing: From Theory to Practice"](https://link.springer.com/book/10.1007/978-3-031-32397-3), edited by Jie Wu and En Wang, 2023, (Part of the Wireless Networks book series)
 
 # 📝 Experiences 
 <span class='anchor' id='-experiences'></span>
 <div class='school-box'>
 <div><img src='../images/iotsc.png' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
-2024.09 - Now a Research Assistant supervised by [Li Li](https://www.fst.um.edu.mo/personal/llili/) and mentored by [Chengzhong Xu](https://www.fst.um.edu.mo/personal/czxu/).
 
 State Key Laboratory in the Internet of Things for Smart City, University of Macau, Macau, China.
 </div>
@@ -111,28 +93,17 @@ State Key Laboratory in the Internet of Things for Smart City, University of Mac
 <div class='school-box'>
 <div><img src='../images/ustc.png' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
-2022.07 - Now, a Research Assistant (Ph.D. student) supervised by [Mingjun Xiao](http://staff.ustc.edu.cn/~xiaomj/indexEN.html).
 
-School of Computer Science and Technology, mentored by [Xiangyang Li](https://cs.ustc.edu.cn/2020/0806/c23235a460096/page.htm)/State Key Laboratory of Cognitive Intelligence, mentored by [Enhong Chen](http://staff.ustc.edu.cn/~cheneh/), University of Science and Technology of China, Hefei, China.
 </div>
 </div>
 
 # 📖 Professional Services
 <span class='anchor' id='-services'></span>
 ## Conferences
-- Eurosys 2025 [Artifact Evaluation Committee](https://2025.eurosys.org/artifact-eval-committee.html#pagetop)
-- IEEE INFOCOM 2022 External reviewer
-- IEEE INFOCOM 2023 External reviewer
+
 
 ## Journals
-* Reviewer:
-  - IEEE Transactions on Mobile Computing (TMC)
-  - IEEE Transactions on Network and Service  Management (TNSM)
-* External reviewer:
-  - IEEE Transactions on Networking (ToN)
-  - IEEE Transactions on Service Computing (TSC)
-  - IEEE Transactions on Big Data (TBD)
-  - Information Science (InfoSci)
+
  
 # 🎖 Honors and Awards
 <span class='anchor' id='-honors-and-awards'></span>
