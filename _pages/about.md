@@ -28,14 +28,6 @@ My research interests include Natural Language Processing & Multi-agent Systems.
 # 🔥 News
 <span class='anchor' id='-news'></span>
 
-- [2025.2] Invited as an Eurosys 2025 [Artifact Evaluation Committee](https://2025.eurosys.org/artifact-eval-committee.html#pagetop)
-- [2024.9] Join the State Key Laboratory in the Internet of Things for Smart City as a Research Assistant.
-- [2024.5] 🎉🎉 One paper was accepted in TMC 2024
-- [2023.10] 🎉🎉 One paper was accepted in ICPADS 2023.
-- [2023.10] 🎉🎉 The paper accepted in MASS 2023 was awarded Best Paper!!! [[link]](https://cis.temple.edu/ieeemass2023/)
-- [2023.3] 🎉🎉 I won the Suzhou Industrial Park Scholarship!
-- [2022.12] 🎉🎉 I won the "Yang Yuanqing" Scholarship!
-- [2022.12] 🎉🎉 Two of my authored papers were accepted by IEEE INFOCOM 2023!
 
 # 📝 Publications 
 <span class='anchor' id='-publications'></span>
