@@ -35,59 +35,11 @@ My research interests include Natural Language Processing & Multi-agent Systems.
   
 ## Conferences
 
-{% raw %}
-<!-- 更多内容 -->
-<div id="more-content" style="display: none;">
-    <ul>
-        <li><b>He Sun</b>, Junyuan Mao, Jinrui Zhou, Mingjun Xiao. "ReSmart: Distributed Stable Task Matching in Non-stationary Environment", VLDB 25‘ (On Submission)</li>
-        <li><b>He Sun</b>, Xihao Sun, Li Li, Yebo Wu, Mingjun Xiao, Chengzhong Xu. "LongInfer: Exploring Fast Inference of Long-Context Large Language Models on a Consumer-grade GPU." (On Submission)</li>
-        <li><b>He Sun</b>, Li Li, Mingjun Xiao, Yebo Wu, Chengzhong Xu. "Efficient Split Federated Tuning for Long-Context Large Language Models." (On Submission)</li>
-    </ul>
-</div>
-
-<!-- More按钮 -->
-<p class="more-button" onclick="toggleMore()">More...</p>
-
-<script>
-    function toggleMore() {
-        var moreContent = document.getElementById("more-content");
-        var moreButton = document.querySelector(".more-button");
-
-        if (moreContent.style.display === "none") {
-            moreContent.style.display = "block";
-            moreButton.textContent = "Less...";
-        } else {
-            moreContent.style.display = "none";
-            moreButton.textContent = "More...";
-        }
-    }
-
-    // 确保页面加载时隐藏更多内容
-    document.addEventListener("DOMContentLoaded", function() {
-        document.getElementById("more-content").style.display = "none";
-    });
-</script>
-{% endraw %}
-
 ## Journals
 
 
 # 📝 Experiences 
-<span class='anchor' id='-experiences'></span>
-<div class='school-box'>
-<div><img src='../images/iotsc.png' alt="sym" width="80"></div>
-<div class='school-box-text' markdown="1">
 
-State Key Laboratory in the Internet of Things for Smart City, University of Macau, Macau, China.
-</div>
-</div>
-
-<div class='school-box'>
-<div><img src='../images/ustc.png' alt="sym" width="80"></div>
-<div class='school-box-text' markdown="1">
-
-</div>
-</div>
 
 # 📖 Professional Services
 <span class='anchor' id='-services'></span>
